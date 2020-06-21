@@ -2,18 +2,18 @@
 ***
  Este projeto foi desenvolvido durante o curso de _**Git e GitHub**_, do **Curso em Vídeo**.
 
- Trata-se de um site simples iniciado na aula 12 e finalizado na aual 13.
+ Trata-se de um site simples iniciado na aula 12 e finalizado na aula 13.
 
  ## Tecnologias usadas:
- * HTML
- * CSS
+ * **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+ * **[CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/O_que_e_CSS)**
 
  ## Recursos ultilizados:
- * GitHub Pages
+ * **[GitHub Pages](https://pages.github.com/)**
 
  ## Farramentas de desenvolvimentos:
- * Visual Studio Code
- * Git
- * GitHub
- * GitHub Desktop
+ * **[Visual Studio Code](https://code.visualstudio.com/)**
+ * **[Git](https://git-scm.com/)**
+ * **[GitHub](https://github.com/)**
+ * **[GitHub Desktop](https://desktop.github.com/)**
  
