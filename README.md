@@ -4,11 +4,9 @@
 
 # Sobre
 
-## Projeto Site
-
  Este projeto foi desenvolvido durante o curso de **Git e GitHub**, do **Curso em Vídeo**.
 
- Trata-se de um site simples iniciado na aula 12 e finalizado na aula 13.
+ Trata-se de uma página simples que contém links para cursos gratuitos.
 
 ## Tecnologias usadas:
  * **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
@@ -25,7 +23,7 @@
  * **[GitHub Pages](https://pages.github.com/)**
  
 ## Licença:
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+Este projeto está licenciado sob a licença MIT - consulte a página [LICENÇA](https://opensource.org/licenses/MIT) para obter detalhes.
 ***
 ## Agradecimentos:
 * **[Prof. Gustavo Guanabara](https://github.com/gustavoguanabara)**
