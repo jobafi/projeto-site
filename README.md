@@ -5,7 +5,7 @@
 # Sobre
 
 ## Projeto Site
-***
+
  Este projeto foi desenvolvido durante o curso de **Git e GitHub**, do **Curso em Vídeo**.
 
  Trata-se de um site simples iniciado na aula 12 e finalizado na aula 13.
