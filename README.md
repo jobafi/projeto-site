@@ -1,6 +1,6 @@
 # Projeto Site
 ***
- Este projeto foi desenvolvido durante o curso de _**Git e GitHub**_, do **Curso em Vídeo**.
+ Este projeto foi desenvolvido durante o curso de **Git e GitHub**, do **Curso em Vídeo**.
 
  Trata-se de um site simples iniciado na aula 12 e finalizado na aula 13.
 
@@ -12,7 +12,7 @@
  * **[Visual Studio Code](https://code.visualstudio.com/)**
  * **[Git](https://git-scm.com/)**
  * **[GitHub](https://github.com/)**
- * **[GitHub Desktop](https://desktop.github.com/)**
+ * **[GitHub Desktop - for Linux](https://desktop.github.com/)**
 
 ## Recursos ultilizados:
  * **[GitHub Pages](https://pages.github.com/)**
