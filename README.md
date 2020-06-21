@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="imagens/logo.jpeg" alt="Cursos Grátis">
+</h>
+
 # Sobre
 
 ## Projeto Site
