@@ -1,4 +1,6 @@
-# Projeto Site
+# Sobre
+
+## Projeto Site
 ***
  Este projeto foi desenvolvido durante o curso de **Git e GitHub**, do **Curso em Vídeo**.
 
@@ -7,6 +9,7 @@
 ## Tecnologias usadas:
  * **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
  * **[CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/O_que_e_CSS)**
+ * **[Markdown](https://daringfireball.net/projects/)**
 
 ## Farramentas:
  * **[Visual Studio Code](https://code.visualstudio.com/)**
@@ -17,5 +20,8 @@
 ## Recursos ultilizados:
  * **[GitHub Pages](https://pages.github.com/)**
  
+## Licença:
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+***
 ## Agradecimentos:
 * **[Prof. Gustavo Guanabara](https://github.com/gustavoguanabara)**
