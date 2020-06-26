@@ -6,7 +6,7 @@
 
  Este projeto foi desenvolvido durante o curso de **Git e GitHub**, do **Curso em Vídeo**.
 
- Trata-se de uma página simples que contém links para cursos gratuitos.
+ Trata-se de uma página simples que contém links para cursos gratuitos. Você pode acessar clicando [aqui](https://thejoaobatista.github.io/projeto-site/).
 
 ## Tecnologias usadas:
  * **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
